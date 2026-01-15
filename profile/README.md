@@ -2,7 +2,11 @@
 
 Готовые решения для библиотеки и сама библиотека для написания продвинутых телеграм ботов.
 
-От разработчика, для разработчиков!
+<p align="center" style="font-size: 1.5em;"><strong>От разработчика, для разработчиков!</strong></p>
+
+<p align="center">
+  <img src="tnt-tg-bot-logo.png" alt="logo banner" style="max-width: 100%; width: 600px;" />
+</p>
 
 
 ----
