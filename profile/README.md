@@ -1,13 +1,12 @@
 # TNT Bots
 
-Готовые решения для библиотеки и сама библиотека для написания продвинутых телеграм ботов.
+Ready-made solutions for the library, and the library itself, for writing advanced Telegram bots.
 
 ----
 
-<p align="center" style="font-size: 1.5em;"><strong>От разработчика, для разработчиков!</strong></p>
+<p align="center" style="font-size: 1.5em;"><strong>By a developer, for developers!</strong></p>
 
-# Карта
-  * [tnt-tg-bot](https://github.com/TNT-Bots/tnt-tg-bot) - Lua/Tarantool library for the telegram bot api.
-  * [lua-style-guide](https://github.com/TNT-Bots/lua-style-guide) - Руководство по стилю программирования.
-  * [tarantool-src](https://github.com/TNT-Bots/tarantool-src) - Сборка tarantool из исходников.
-----
+## MAP
+ * [tnt-tg-bot](https://github.com/TNT-Bots/tnt-tg-bot) - Lua/Tarantool library for the telegram bot api.
+ * [lua-style-guide](https://github.com/TNT-Bots/lua-style-guide) - Programming style guide.
+ * [tarantool-src](https://github.com/TNT-Bots/tarantool-src) - Building Tarantool from source.
