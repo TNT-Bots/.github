@@ -10,3 +10,4 @@ Ready-made solutions for the library, and the library itself, for writing advanc
  * [tnt-tg-bot](https://github.com/TNT-Bots/tnt-tg-bot) - Lua/Tarantool library for the telegram bot api.
  * [lua-style-guide](https://github.com/TNT-Bots/lua-style-guide) - Programming style guide.
  * [tarantool-src](https://github.com/TNT-Bots/tarantool-src) - Building Tarantool from source.
+ * [niko-bot](https://github.com/niko-tg/niko-bot) - Gaming chatbot.
